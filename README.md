@@ -1,3 +1,6 @@
+# Project Overview
+A to-do app build using react, html, and css. Can be used to keep track of things that you plan on doing.
+![Capture-2023-01-14-211022](https://user-images.githubusercontent.com/70824397/212519493-449297de-7a4b-4e2f-a298-0865190c2800.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
